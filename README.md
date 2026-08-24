@@ -1,159 +1,135 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:1B0630,100:0F2027&height=220&section=header&text=IZHAAN%20SIDDIQUE&fontSize=42&fontColor=00F0FF&fontAlignY=38&animation=fadeIn&desc=%3E%20booting_developer.exe&descSize=16&descAlignY=58&descColor=B24BF3" width="100%"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Izhaan+Siddique;C%2B%2B+%7C+DSA+%7C+Problem+Solver;Learning+in+public%2C+building+for+the+future;Currently+debugging%3A+my+own+logic()" alt="Typing SVG" />
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-siddiqueizhaan-0D0221?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=0D0221)](https://github.com/siddiqueizhaan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-izhaan37-0D0221?style=for-the-badge&logo=linkedin&logoColor=B24BF3&labelColor=0D0221)](https://www.linkedin.com/in/izhaan37/)
-
+  <img src="assets/hero_animation.gif" alt="Manik Pangotra Hero Animation" width="100%" style="border-radius: 12px; width: 100%; height: 280px; max-height: 280px; object-fit: cover; box-shadow: 0 8px 32px rgba(255, 42, 42, 0.4);" />
 </div>
 
-<br/>
-
-```
-
-╔══════════════════════════════════════════════════════════════════╗
-║  root@izhaan:~$ whoami                                             ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-## `//` About Me
-
-```yaml
-name: "Izhaan Siddique"
-role: "Aspiring Software Developer"
-focus: "Data Structures & Algorithms using C++"
-status: "Learning fundamentals before shipping projects"
-languages: ["C", "C++", "Python", "HTML", "CSS", "JavaScript"]
-database: ["MySQL"]
-philosophy: "Build the foundation first, the projects will follow."
-```
-
-I'm currently strengthening my core programming fundamentals through **C** and **C++**, while actively practicing **Data Structures & Algorithms** and **problem solving**. I also work with **Python**, **HTML/CSS/JavaScript**, and **MySQL**. I don't have public projects live yet — right now the focus is on getting the fundamentals rock solid so that what I build next is built well.
-
-<br/>
-
-## `//` Current Focus
+<br>
 
 <div align="center">
-
-| 🧠 DSA | 🔷 C++ | 🧩 Problem Solving | ⚙️ Fundamentals |
-|:---:|:---:|:---:|:---:|
-| Practicing daily | Core language of choice | Sharpening logic | Strengthening the base |
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF2A2A&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80+CSE+(AI%2FML)+Student;%F0%9F%92%BB+Learning+DSA+%26+C%2B%2B;%F0%9F%A4%96+Exploring+AI+%26+Machine+Learning;%F0%9F%A7%A0+Building+Strong+Problem-Solving+Skills;%F0%9F%94%A7+Building+Practical+Software+Projects;%F0%9F%8E%AF+Aspiring+Software+Engineer" alt="Typing SVG" />
+  </a>
 </div>
 
-<br/>
-
-## `//` Tech Stack
+<br>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,mysql&theme=dark" />
+  <a href="https://github.com/Manik-Pangotra">
+    <img src="https://komarev.com/ghpvc/?username=Manik-Pangotra&color=FF2A2A&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/Manik-Pangotra?tab=followers">
+    <img src="https://img.shields.io/github/followers/Manik-Pangotra?label=FOLLOWERS&logo=github&style=for-the-badge&color=FF4D4D&labelColor=1F1F1F" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/Manik-Pangotra?tab=repositories">
+    <img src="https://img.shields.io/github/stars/Manik-Pangotra?label=TOTAL+STARS&logo=github&style=for-the-badge&color=FF7F7F&labelColor=1F1F1F" alt="GitHub Stars" />
+  </a>
 </div>
 
-<br/>
+<br>
 
-## `//` Developer Journey — Learning Roadmap
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="65%" valign="top">
+      <h3>✨ About Me</h3>
+      <p>
+        Hi! I'm <b>Manik Pangotra</b>, a <b>Computer Science & Engineering</b> student specializing in <b>Artificial Intelligence & Machine Learning</b>. I am currently focusing on strengthening my core programming fundamentals, mastering Data Structures & Algorithms with C++, and building practical embedded and intelligent systems.
+      </p>
+      <ul>
+        <li>🎓 <b>Education:</b> Currently pursuing B.Tech in CSE (AI/ML) and entering my 2nd year.</li>
+        <li>💻 <b>Current Focus:</b> Mastering Data Structures & Algorithms (DSA) and problem-solving using C++.</li>
+        <li>🚗 <b>Featured Project:</b> Developed a <b>Car Water Safety System</b> — an Arduino-based emergency vehicle safety system designed to facilitate rapid passenger escape from a submerged vehicle. The system detects water ingress in real time and automatically executes critical safety routines: releasing the seatbelt, lowering the car window, and deploying/inflating an emergency life jacket using water sensors, servo motors, and a relay module.</li>
+        <li>🔧 <b>Embedded & Hardware:</b> Hands-on experience with embedded systems and hardware prototyping using Arduino, ESP32, sensors, servo actuators, and relay modules.</li>
+        <li>📚 <b>Engineering Philosophy:</b> Focused on understanding core fundamentals and practical engineering rather than surface-level tech stacks.</li>
+        <li>🎯 <b>Long-Term Goal:</b> Aspiring Software Engineer building strong technical capabilities to excel in competitive programming, software engineering placements, and top tech companies.</li>
+      </ul>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <a href="https://github.com/Manik-Pangotra" target="_blank" title="⚡ Click to visit Manik's GitHub Profile">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="assets/profile_avatar.jpg">
+          <source media="(prefers-color-scheme: light)" srcset="assets/profile_avatar.jpg">
+          <img src="assets/profile_avatar.jpg" width="92%" style="border-radius: 20px; border: 2px solid #FF2A2A; box-shadow: 0 0 25px rgba(255, 42, 42, 0.6); margin-bottom: 8px;" alt="Manik Pangotra Avatar" />
+        </picture>
+      </a>
+      <br>
+      <img src="https://img.shields.io/badge/CSE_(AI/ML)-Student-FF2A2A?style=for-the-badge&logo=github&logoColor=white" alt="CSE AI/ML Badge" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<h2 align="center">🛠️ Tech Stack & Skills</h2>
+
+<p align="center">
+  <i>Developing strong core capabilities across Data Structures & Algorithms, C++, Embedded Systems, and Software Engineering.</i>
+</p>
 
 <div align="center">
-
-```
-  ┌───────────────────────────┐
-  │  Programming Fundamentals │   ✅ In progress
-  └─────────────┬─────────────┘
-                │
-                ▼
-  ┌───────────────────────────┐
-  │          C / C++          │   ✅ In progress
-  └─────────────┬─────────────┘
-                │
-                ▼
-  ┌───────────────────────────┐
-  │  Data Structures & Algos  │   🔄 Active focus
-  └─────────────┬─────────────┘
-                │
-                ▼
-  ┌───────────────────────────┐
-  │      Problem Solving      │   🔄 Active focus
-  └─────────────┬─────────────┘
-                │
-                ▼
-  ┌───────────────────────────┐
-  │    Real-World Projects    │   🔜 Upcoming — not started yet
-  └───────────────────────────┘
-```
-
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,c,py,pytorch,opencv,postgres,git,github,vscode,jupyter,arduino,raspberrypi&perline=12" alt="Skill Icons Tech Stack" />
+  </a>
 </div>
 
-> **Note:** I haven't started building public projects yet — I'm intentionally spending this stage on fundamentals and DSA first. Projects are the next milestone, not a completed one.
-
-<br/>
-
-## `//` GitHub Activity
+<br>
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=siddiqueizhaan&show_icons=true&count_private=true&hide_title=false&hide_border=true&bg_color=0D0221&title_color=00F0FF&icon_color=B24BF3&text_color=C9D1D9&ring_color=00F0FF" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=siddiqueizhaan&hide_border=true&background=0D0221&ring=00F0FF&fire=B24BF3&currStreakLabel=00F0FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=7A7A9D" width="48%" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddiqueizhaan&layout=compact&hide_border=true&bg_color=0D0221&title_color=00F0FF&text_color=C9D1D9&langs_count=8" width="48%" />
-
+  <img src="https://img.shields.io/badge/Languages-C%2B%2B%20%7C%20C%20%7C%20Python%20%7C%20SQL-FF2A2A?style=flat-square&logoColor=white" alt="Languages" />
+  <img src="https://img.shields.io/badge/Embedded_%26_Hardware-Arduino%20%7C%20ESP32%20%7C%20Sensors%20%7C%20Servo%20Motors%20%7C%20Relays-FF4D4D?style=flat-square&logoColor=white" alt="Embedded Hardware" />
+  <img src="https://img.shields.io/badge/Development_%26_Tools-Git%20%7C%20GitHub%20%7C%20VSCode%20%7C%20Jupyter-FF7F7F?style=flat-square&logoColor=black" alt="Development Tools" />
+  <img src="https://img.shields.io/badge/Database-PostgreSQL-D32F2F?style=flat-square&logoColor=white" alt="Database" />
 </div>
 
-<br/>
+<br>
 
-## `//` Contribution Grid
+<h2 align="center">📊 GitHub Activity & Statistics</h2>
 
 <div align="center">
-<img src="https://ghchart.rshah.org/00F0FF/siddiqueizhaan" alt="Izhaan's GitHub contribution graph" width="90%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manik-Pangotra&theme=dark&background=0D1117&ring=FF2A2A&fire=FF4D4D&currStreakNum=FF2A2A&sideNums=FF7F7F&sideTitle=FF2A2A&dates=FF7F7F&border=FF2A2A&hide_border=false" alt="GitHub Streak" width="100%" style="max-width: 600px;" />
 </div>
 
-<br/>
-
-## `//` Contribution Snake
+<br>
 
 <div align="center">
-
-<!--START_SECTION:snake-->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/siddiqueizhaan/siddiqueizhaan/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/siddiqueizhaan/siddiqueizhaan/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/siddiqueizhaan/siddiqueizhaan/output/github-contribution-grid-snake.svg" />
-</picture>
-<!--END_SECTION:snake-->
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manik-Pangotra&theme=react-dark&custom_title=GitHub%20Activity%20Graph&bg_color=0D1117&title_color=FF2A2A&line=FF2A2A&point=FF4D4D&area=true&area_color=FF7F7F" alt="Activity Graph" width="100%" />
 </div>
 
-> This animation needs a one-time GitHub Actions setup — see the step-by-step instructions below. Until the workflow runs once, this image will appear broken; that's expected.
+<br>
 
-<br/>
-
-## `//` Connect With Me
+<h2 align="center">🐍 Contribution Snake</h2>
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0D0221?style=for-the-badge&logo=linkedin&logoColor=00F0FF&labelColor=0D0221)](https://www.linkedin.com/in/izhaan37/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-0D0221?style=for-the-badge&logo=github&logoColor=B24BF3&labelColor=0D0221)](https://github.com/siddiqueizhaan)
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Manik-Pangotra/Manik-Pangotra/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Manik-Pangotra/Manik-Pangotra/output/github-snake.svg">
+    <img src="assets/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" style="border-radius: 8px; border: 1px solid #FF2A2A; box-shadow: 0 0 15px rgba(255, 42, 42, 0.3);" />
+  </picture>
 </div>
 
-<br/>
+<br>
+
+<h2 align="center">📫 Let's Connect & Collaborate</h2>
 
 <div align="center">
+  <a href="https://www.linkedin.com/in/manik-pangotra-6a81a842a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-FF2A2A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/Manik7x" target="_blank">
+    <img src="https://img.shields.io/badge/X-FF4D4D?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://www.instagram.com/_maanik06?igsh=MXc0Y2ZoNTR4dzRjeQ%3D%3D" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-FF7F7F?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram" />
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=workmaanik@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-FF2A2A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
-```
-root@izhaan:~$ echo "still compiling my potential..."
-> still compiling my potential...
-root@izhaan:~$ _
-```
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:1B0630,100:0D0221&height=120&section=footer" width="100%"/>
-
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_1=#8B0000&custom_color_2=#0D1117&height=120&section=footer">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_1=#FF2A2A&custom_color_2=#1A0305&height=120&section=footer">
+    <img alt="Footer Waving Render" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_1=#8B0000&custom_color_2=#0D1117&height=120&section=footer" width="100%">
+  </picture>
 </div>
