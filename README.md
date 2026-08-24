@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="assets/hero.svg" alt="Izhaan Siddique - Cyberpunk Hero Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/siddiqueizhaan/siddiqueizhaan/main/assets/cyberpunk-hero.svg" width="100%" alt="Izhaan Siddique Cyberpunk Hero"/>
 </div>
+
 
 <br/>
 
