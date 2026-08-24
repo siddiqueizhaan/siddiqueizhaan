@@ -1,79 +1,138 @@
-<svg width="1200" height="280" viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#05010F"/>
-      <stop offset="50%" stop-color="#0D0221"/>
-      <stop offset="100%" stop-color="#0F0326"/>
-    </linearGradient>
-    <linearGradient id="scan" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#00F0FF" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#00F0FF" stop-opacity="0.25"/>
-      <stop offset="100%" stop-color="#00F0FF" stop-opacity="0"/>
-    </linearGradient>
-    <filter id="glowCyan" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="4" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-    <filter id="glowPurple" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="3" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1B0F3A" stroke-width="1"/>
-    </pattern>
-  </defs>
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
 
-  <rect width="1200" height="280" fill="url(#bg)"/>
-  <rect width="1200" height="280" fill="url(#grid)">
-    <animate attributeName="opacity" values="0.4;0.8;0.4" dur="4s" repeatCount="indefinite"/>
-  </rect>
+<defs>
 
-  <rect x="0" y="-200" width="1200" height="200" fill="url(#scan)">
-    <animateTransform attributeName="transform" type="translate" values="0,0; 0,480; 0,0" dur="6s" repeatCount="indefinite"/>
-  </rect>
+<linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#020617"/>
+<stop offset="45%" stop-color="#10002B"/>
+<stop offset="75%" stop-color="#003B4D"/>
+<stop offset="100%" stop-color="#05010D"/>
+</linearGradient>
 
-  <line x1="0" y1="0" x2="1200" y2="0" stroke="#00F0FF" stroke-width="2">
-    <animate attributeName="opacity" values="0.3;1;0.3" dur="3s" repeatCount="indefinite"/>
-  </line>
-  <line x1="0" y1="278" x2="1200" y2="278" stroke="#B24BF3" stroke-width="2">
-    <animate attributeName="opacity" values="0.3;1;0.3" dur="3s" repeatCount="indefinite" begin="1.5s"/>
-  </line>
+<linearGradient id="cyanLine">
+<stop offset="0%" stop-color="#00F5FF" stop-opacity="0"/>
+<stop offset="50%" stop-color="#00F5FF"/>
+<stop offset="100%" stop-color="#00F5FF" stop-opacity="0"/>
+</linearGradient>
 
-  <text x="600" y="118" text-anchor="middle" font-family="'Courier New', monospace" font-size="56" font-weight="bold" fill="#00F0FF" filter="url(#glowCyan)">
-    IZHAAN SIDDIQUE
-    <animate attributeName="opacity" values="0.75;1;0.75" dur="2.5s" repeatCount="indefinite"/>
-  </text>
+<filter id="cyanGlow">
+<feGaussianBlur stdDeviation="5" result="blur"/>
+<feMerge>
+<feMergeNode in="blur"/>
+<feMergeNode in="SourceGraphic"/>
+</feMerge>
+</filter>
 
-  <text x="600" y="160" text-anchor="middle" font-family="'Courier New', monospace" font-size="22" letter-spacing="4" fill="#B24BF3" filter="url(#glowPurple)">
-    ASPIRING SOFTWARE DEVELOPER
-    <animate attributeName="opacity" values="0.6;1;0.6" dur="3s" repeatCount="indefinite" begin="0.4s"/>
-  </text>
+<filter id="purpleGlow">
+<feGaussianBlur stdDeviation="4" result="blur"/>
+<feMerge>
+<feMergeNode in="blur"/>
+<feMergeNode in="SourceGraphic"/>
+</feMerge>
+</filter>
 
-  <text x="600" y="200" text-anchor="middle" font-family="'Courier New', monospace" font-size="18" fill="#E056FD">
-    <tspan>C++ / DSA / PROBLEM SOLVING</tspan>
-    <animate attributeName="opacity" values="0.5;1;0.5" dur="2s" repeatCount="indefinite" begin="0.8s"/>
-  </text>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+<path d="M40 0H0V40" fill="none" stroke="#18324A" stroke-width="1"/>
+</pattern>
 
-  <rect x="835" y="188" width="12" height="20" fill="#00F0FF" filter="url(#glowCyan)">
-    <animate attributeName="opacity" values="1;1;0;0" dur="1s" repeatCount="indefinite"/>
-  </rect>
+</defs>
 
-  <circle cx="80" cy="60" r="2.5" fill="#00F0FF">
-    <animate attributeName="opacity" values="0.2;1;0.2" dur="2.2s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="1120" cy="60" r="2.5" fill="#B24BF3">
-    <animate attributeName="opacity" values="0.2;1;0.2" dur="2.6s" repeatCount="indefinite" begin="0.5s"/>
-  </circle>
-  <circle cx="80" cy="220" r="2.5" fill="#B24BF3">
-    <animate attributeName="opacity" values="0.2;1;0.2" dur="2.4s" repeatCount="indefinite" begin="1s"/>
-  </circle>
-  <circle cx="1120" cy="220" r="2.5" fill="#00F0FF">
-    <animate attributeName="opacity" values="0.2;1;0.2" dur="2.8s" repeatCount="indefinite" begin="1.3s"/>
-  </circle>
+<rect width="1200" height="300" fill="url(#bg)"/>
+
+<rect width="1200" height="300" fill="url(#grid)">
+<animate attributeName="opacity" values="0.25;0.75;0.25" dur="4s" repeatCount="indefinite"/>
+</rect>
+
+<rect x="0" y="-100" width="1200" height="80" fill="#00F5FF" opacity="0.08">
+<animateTransform attributeName="transform" type="translate" values="0,0;0,420;0,0" dur="5s" repeatCount="indefinite"/>
+</rect>
+
+<line x1="0" y1="12" x2="1200" y2="12" stroke="url(#cyanLine)" stroke-width="3">
+<animate attributeName="opacity" values="0.2;1;0.2" dur="2s" repeatCount="indefinite"/>
+</line>
+
+<line x1="0" y1="288" x2="1200" y2="288" stroke="#B026FF" stroke-width="2">
+<animate attributeName="opacity" values="0.2;1;0.2" dur="2.5s" repeatCount="indefinite"/>
+</line>
+
+<circle cx="90" cy="80" r="4" fill="#00F5FF" filter="url(#cyanGlow)">
+<animate attributeName="opacity" values="0.2;1;0.2" dur="2s" repeatCount="indefinite"/>
+</circle>
+
+<circle cx="1110" cy="80" r="4" fill="#B026FF" filter="url(#purpleGlow)">
+<animate attributeName="opacity" values="0.2;1;0.2" dur="2.4s" repeatCount="indefinite"/>
+</circle>
+
+<circle cx="90" cy="220" r="3" fill="#B026FF" filter="url(#purpleGlow)">
+<animate attributeName="opacity" values="0.2;1;0.2" dur="2.7s" repeatCount="indefinite"/>
+</circle>
+
+<circle cx="1110" cy="220" r="3" fill="#00F5FF" filter="url(#cyanGlow)">
+<animate attributeName="opacity" values="0.2;1;0.2" dur="2.1s" repeatCount="indefinite"/>
+</circle>
+
+<text x="600" y="125"
+text-anchor="middle"
+font-family="Courier New, monospace"
+font-size="58"
+font-weight="bold"
+fill="#00F5FF"
+filter="url(#cyanGlow)">
+
+IZHAAN SIDDIQUE
+
+<animate attributeName="opacity" values="0.65;1;0.65" dur="2.4s" repeatCount="indefinite"/>
+
+</text>
+
+<text x="600" y="168"
+text-anchor="middle"
+font-family="Courier New, monospace"
+font-size="21"
+letter-spacing="5"
+fill="#B026FF"
+filter="url(#purpleGlow)">
+
+ASPIRING SOFTWARE DEVELOPER
+
+<animate attributeName="opacity" values="0.5;1;0.5" dur="3s" repeatCount="indefinite"/>
+
+</text>
+
+<text x="600" y="208"
+text-anchor="middle"
+font-family="Courier New, monospace"
+font-size="17"
+fill="#00D9FF">
+
+C++  /  DSA  /  PROBLEM SOLVING
+
+<animate attributeName="opacity" values="0.45;1;0.45" dur="2s" repeatCount="indefinite"/>
+
+</text>
+
+<rect x="820" y="193" width="11" height="20" fill="#00F5FF" filter="url(#cyanGlow)">
+<animate attributeName="opacity" values="1;1;0;0" dur="0.9s" repeatCount="indefinite"/>
+</rect>
+
+<text x="35" y="270"
+font-family="Courier New, monospace"
+font-size="12"
+fill="#00F5FF"
+opacity="0.7">
+
+SYSTEM://ONLINE
+
+</text>
+
+<text x="1020" y="270"
+font-family="Courier New, monospace"
+font-size="12"
+fill="#B026FF"
+opacity="0.7">
+
+BUILD://LOADING
+
+</text>
+
 </svg>
