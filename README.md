@@ -1,72 +1,34 @@
-<div align="center">
+        IZHAAN SIDDIQUE
+   ─────────────────────────
+       C++ • Python • DSA
 
-# 👋 Hi, I'm Izhaan Siddique
+   [ animated terminal intro ]
 
-### 💻 Developer | 🧠 DSA Learner | 🚀 Building My Skills
+   ┌─────────────────────────┐
+   │  ABOUT ME               │
+   │  CURRENTLY LEARNING     │
+   │  TECH STACK             │
+   └─────────────────────────┘
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Learning+DSA+with+C%2B%2B;Exploring+Web+Development;Learning+Something+New+Every+Day" />
+       ⚡ DSA JOURNEY
 
-</div>
+   C → C++ → DSA → Problem Solving
 
----
+       💻 TECH STACK
 
-## 👨‍💻 About Me
+   C | C++ | Python
+   HTML | CSS | JavaScript
+   MySQL
 
-I'm Izhaan Siddique, a developer focused on improving my programming
-and problem-solving skills.
+       📊 GITHUB ACTIVITY
 
-- 🧠 Currently practicing **DSA with C++**
-- 💻 Comfortable with **C, C++, and Python**
-- 🌐 Familiar with **HTML, CSS, and JavaScript**
-- 🗄️ Working with **MySQL**
-- 📚 Continuously learning and improving my development skills
-- 🚀 Planning to build and publish my own projects
+   [real GitHub stats]
+   [real contribution graph]
 
----
+       🌐 CONNECT
 
-## 🛠️ Languages & Technologies
+          LinkedIn
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,mysql" />
-
-</div>
-
----
-
-## 🧠 Currently Learning
-
-<div align="center">
-
-### C++ → Data Structures & Algorithms
-
-**Problem Solving • Algorithms • Data Structures**
-
-</div>
-
----
-
-## 📈 My Developer Journey
-
-```text
-Programming
-    │
-    ├── C
-    ├── C++
-    └── Python
-         │
-         ▼
-    Web Development
-         │
-         ├── HTML
-         ├── CSS
-         └── JavaScript
-         │
-         ▼
-       MySQL
-         │
-         ▼
-   DSA with C++ 🧠
-         │
-         ▼
-   Building Projects 🚀
+       ───────────────
+       "Building one skill
+        at a time."
